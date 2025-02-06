@@ -1,16 +1,13 @@
-# gallery_app
+# Gallery App
+## Description
+This is a Simple flutter application demo of how to use image picker to select multiple images and display them
 
-A new Flutter project.
+## Features
+- selecting multiple images
+  
+## code explanation
+- on pressing a button (pick image) user is requested to select one more images and on confirming selected images are then to a list and displayed in a listView builder
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Application Screenshots: 
+|![WhatsApp Image 2025-02-06 at 6 29 12 PM](https://github.com/user-attachments/assets/7125d1b7-d66f-4713-8c88-605867f7469a)|![WhatsApp Image 2025-02-06 at 6 29 33 PM](https://github.com/user-attachments/assets/94fae778-87e3-41a7-b412-ac478f67ca23)|
+|-|-|
